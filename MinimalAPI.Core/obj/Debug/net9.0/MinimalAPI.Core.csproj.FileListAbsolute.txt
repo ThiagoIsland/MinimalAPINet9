@@ -1,0 +1,15 @@
+/Users/thiagoalessandro/Projetos/MinimalAPI/MinimalAPI/MinimalAPI.Core/obj/Debug/net9.0/MinimalAPI.Core.csproj.AssemblyReference.cache
+/Users/thiagoalessandro/Projetos/MinimalAPI/MinimalAPI/MinimalAPI.Core/obj/Debug/net9.0/MinimalAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoalessandro/Projetos/MinimalAPI/MinimalAPI/MinimalAPI.Core/obj/Debug/net9.0/MinimalAPI.Core.AssemblyInfoInputs.cache
+/Users/thiagoalessandro/Projetos/MinimalAPI/MinimalAPI/MinimalAPI.Core/obj/Debug/net9.0/MinimalAPI.Core.AssemblyInfo.cs
+/Users/thiagoalessandro/Projetos/MinimalAPI/MinimalAPI/MinimalAPI.Core/obj/Debug/net9.0/MinimalAPI.Core.csproj.CoreCompileInputs.cache
+/Users/thiagoalessandro/Projetos/MinimalAPI/MinimalAPI/MinimalAPI.Core/obj/Debug/net9.0/MinimalAPI.Core.sourcelink.json
+/Users/thiagoalessandro/Projetos/MinimalAPI/MinimalAPI/MinimalAPI.Core/bin/Debug/net9.0/MinimalAPI.Core.deps.json
+/Users/thiagoalessandro/Projetos/MinimalAPI/MinimalAPI/MinimalAPI.Core/bin/Debug/net9.0/MinimalAPI.Core.runtimeconfig.json
+/Users/thiagoalessandro/Projetos/MinimalAPI/MinimalAPI/MinimalAPI.Core/bin/Debug/net9.0/MinimalAPI.Core.dll
+/Users/thiagoalessandro/Projetos/MinimalAPI/MinimalAPI/MinimalAPI.Core/bin/Debug/net9.0/MinimalAPI.Core.pdb
+/Users/thiagoalessandro/Projetos/MinimalAPI/MinimalAPI/MinimalAPI.Core/obj/Debug/net9.0/MinimalAPI.Core.dll
+/Users/thiagoalessandro/Projetos/MinimalAPI/MinimalAPI/MinimalAPI.Core/obj/Debug/net9.0/refint/MinimalAPI.Core.dll
+/Users/thiagoalessandro/Projetos/MinimalAPI/MinimalAPI/MinimalAPI.Core/obj/Debug/net9.0/MinimalAPI.Core.pdb
+/Users/thiagoalessandro/Projetos/MinimalAPI/MinimalAPI/MinimalAPI.Core/obj/Debug/net9.0/MinimalAPI.Core.genruntimeconfig.cache
+/Users/thiagoalessandro/Projetos/MinimalAPI/MinimalAPI/MinimalAPI.Core/obj/Debug/net9.0/ref/MinimalAPI.Core.dll
